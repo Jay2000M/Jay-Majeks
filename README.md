@@ -1,7 +1,7 @@
 # Jay-Majeks
 
 
-Hi, I’m a Python Developer & AI Automation Engineer 👋
+Hi, I’m a Python Developer & AI Automation Engineer 
 
 I’m an Artificial Intelligence & Robotics graduate with an interest in building software, exploring AI and finding practical ways to use technology to solve problems.
 
